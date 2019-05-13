@@ -1,3 +1,6 @@
 {
-  "name": "simplePagination.js"
+  "name": "simplePagination.js",
+  "version": "1.0.0",
+  "description": "A simple jQuery pagination plugin.",
+  "author": "Flavius Matis"
 }
